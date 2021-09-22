@@ -1,3 +1,6 @@
+### Below is a code sample that simulates the auto complete searching system. It is a leetcode problem. Link to the problem is given below.
+### https://leetcode.com/problems/design-search-autocomplete-system/
+
 class SentenceNode:
     def __init__(self, hot, sentence):
         self.hot = hot
